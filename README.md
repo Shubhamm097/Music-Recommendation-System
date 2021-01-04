@@ -1,2 +1,2 @@
 # Music-Recommendation-System
-The repository contains Music Recommendation System over the Spotify dataset.
+The repository contains Music Recommendation System using the Kaggle Spotify dataset.
